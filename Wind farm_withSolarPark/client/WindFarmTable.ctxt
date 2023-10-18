@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WindFarmTable
+comment0.text=\r\n\ Wind\ farm\ table\ gives\ all\ the\ information\ related\ to\ all\ the\ windfarms\ \r\n\ in\ a\ table.\ It\ also\ provides\ the\ total\ power\ of\ all\ the\ wind\ farms\r\n\ instances\ created.\r\n\r\n\ @author\ (Charithma\ Perera)\r\n\ @version\ (19.10.2022)\r\n
+comment1.params=name
+comment1.target=WindFarmTable(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WindFarmTable\r\n
+comment2.params=powerStation
+comment2.target=void\ addPowerStation(common.IWindFarm)
+comment2.text=\r\n\ Creating\ an\ Array\ List\ for\ the\ Wind\ farms\r\n
+comment3.params=
+comment3.target=double\ getTotalPower()
+comment3.text=\r\n\ Return\ the\ total\ power\ (capacity)\ of\ all\ th\ wind\ farms\ \r\n\ that\ are\ added\ in\ the\ table\r\n
+comment4.params=
+comment4.target=void\ printTable()
+comment4.text=\r\n\ Printing\ a\ table\ with\ all\ the\ information\ about\ th\ wind\ farms\r\n
+comment5.params=country
+comment5.target=void\ listWindFarms(java.lang.String)
+comment5.text=\r\n\ Method\ listWindFarms\ prints\ all\ WindFarm\ instances\ \r\n\ located\ in\ the\ country\ to\ the\ terminal\r\n\r\n\ @param\ country\ A\ parameter\ that\ is\ the\ key\ word\ to\ be\ searched\ in\ the\ arraylist.\r\n
+comment6.params=country
+comment6.target=java.util.HashSet\ findWindFarms(java.lang.String)
+comment6.text=\r\n\ Method\ findWindFarms\ adds\ all\ WindFarm\ instances\ \r\n\ located\ in\ the\ country\ to\ a\ set\r\n\r\n\ @param\ country\ is\ the\ country\ name\ \r\n\ @return\ a\ set\ of\ all\ WindFarm\ instances\ \r\n\ located\ in\ the\ country\r\n
+numComments=7

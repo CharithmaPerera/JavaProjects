@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IWindFarm
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ IWindFarm\ here.\r\n\r\n\ @author\ Charithma\ Perera\r\n\ @version\ 27.11.2022\r\n
+comment1.params=
+comment1.target=java.lang.String\ getHeader()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=double\ getCapacity()
+comment4.params=
+comment4.target=java.lang.String\ getCountry()
+numComments=5
