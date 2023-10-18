@@ -68,7 +68,7 @@ public class WindFarm implements IWindFarm
     
 
     /**
-     * Printing information in a table
+     * Printing the information in a table
      */
     public void printAll()
     {
